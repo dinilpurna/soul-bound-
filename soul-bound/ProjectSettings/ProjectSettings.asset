@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 42a82a86a929b984ca9681390a140941
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -767,7 +767,7 @@ PlayerSettings:
   cloudProjectId: 1891fdea-f8b1-4fbb-aef4-83485f07c5ac
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Reko's Nightmare
+  projectName: My project (1) 2025-05-08_09-43-54
   organizationId: mrlucifer00
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
